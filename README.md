@@ -1,4 +1,4 @@
-# Alankar Janawalekar — Portfolio
+# Alankar Janawalekar | Portfolio
 
 Live Website: https://luciferjan.github.io/alankarjan-portfolio/
 ---
@@ -49,6 +49,16 @@ Edge AI model optimization
 
 ## Deployment
 Deployed using GitHub Pages
+
+---
+## Project Structure
+The project uses a single-file architecture for zero-latency loading:
+
+```text
+/portfolio
+│
+├── index.html       # Main application logic & UI
+└── README.md        # Documentation
 
 ---
 
