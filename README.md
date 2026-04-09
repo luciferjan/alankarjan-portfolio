@@ -16,10 +16,7 @@ Focused on:
 
 ## Tech Stack
 - HTML, CSS, JavaScript
-- Python
-- PHP & MySQL
 - React.js
-- OpenCV, YOLOv8
 
 ---
 
