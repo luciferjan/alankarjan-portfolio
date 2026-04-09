@@ -1,9 +1,9 @@
-# 🚀 Alankar Janawalekar — Portfolio
+# Alankar Janawalekar — Portfolio
 
 Live Website:
 ---
 
-## 👨‍💻 About Me
+## About Me
 Final year B.Sc. Computer Science student based in Mumbai.
 
 Focused on:
@@ -14,7 +14,7 @@ Focused on:
 
 ---
 
-## 🧠 Tech Stack
+## Tech Stack
 - HTML, CSS, JavaScript
 - Python
 - PHP & MySQL
@@ -23,7 +23,7 @@ Focused on:
 
 ---
 
-## 📂 Featured Projects
+## Featured Projects
 
 ### 1. Trackivore
 Full-stack health tracking web app  
@@ -38,7 +38,7 @@ Edge AI model optimization
 
 ---
 
-## ⚙️ Features
+## Features
 - Fully responsive design
 - Smooth animations (GSAP)
 - Clean UI/UX
@@ -46,22 +46,18 @@ Edge AI model optimization
 
 ---
 
-## 📸 Preview
-(Add screenshots here later)
 
----
-
-## 🚀 Deployment
+## Deployment
 Deployed using GitHub Pages
 
 ---
 
-## 📬 Contact
+## Contact
 - Email: alankarjan@gmail.com
 - GitHub: https://github.com/luciferjan
 - LinkedIn: https://linkedin.com/in/alankar-jan
 
 ---
 
-## ⭐ If you like this project
+## If you like this project
 Give it a star on GitHub!
