@@ -56,7 +56,7 @@ The project uses a single-file architecture for zero-latency loading:
 │
 ├── index.html       # Main application logic & UI
 └── README.md        # Documentation
-
+```
 ---
 
 ## Contact
